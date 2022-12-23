@@ -1,2 +1,2 @@
-# Christmas-Counter
+Counter
 Practicing DOM in JS!
